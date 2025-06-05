@@ -18,8 +18,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore/Pages/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore/Pages/_CartLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0NhcnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore/Views/Shared/Components/NavigationMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTmF2aWdhdGlvbk1lbnUvRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/vothinhuy/Desktop/Yuyie.Ny/Nam3/HK3/Advanced_Web_Programming/TH/AWP/SportsSln/SportsStore/Views/Shared/ProductSummary.cshtml]
